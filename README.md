@@ -63,13 +63,13 @@ Este módulo foi elaborado para o entendimento e aplicação de autenticação u
 2. Faça o clone pelo Github:
 
     ```shell
-    $ git clone https://github.com/mgckaled/ignite-devia-supervised_algorithms.git
+    $ git clone https://github.com/mgckaled/ignite-python-flask_crud.git
     ```
 
 3. Acesse o diretório:
 
     ```shell
-    $ cd ignite-devia-supervised_algorithms
+    $ cd ignite-python-flask_crud
     ```
 
 4. Instale as dependências e ative o ambiente virtual
