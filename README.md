@@ -32,9 +32,11 @@
 
 Repositório do quarto módulo da trilha Python 2024, desenvolvido pela Rocketseat Education.
 
-Este módulo foi elaborado para o entendimento e aplicação de autenticação usando `Flask_Login`, além de apresentar os conceitos de integração de banco de dados utilziando o `SQLAlchemy`.
+Este módulo foi elaborado para o entendimento e aplicação de autenticação usando `Flask-Login`, além de apresentar os conceitos de integração de banco de dados utilziando o `SQLAlchemy`.
 
 > [Anotações](./.github/docs/notes.md) referente ao módulo.
+>
+> Acesso ao [roteiro das aulas](./.github/docs/class-schedule.md).
 >
 > Perguntas e respostas do [Quiz](./.github/docs/quizz.md).
 
@@ -63,13 +65,13 @@ Este módulo foi elaborado para o entendimento e aplicação de autenticação u
 2. Faça o clone pelo Github:
 
     ```shell
-    $ git clone https://github.com/mgckaled/ignite-python-flask_crud.git
+    $ git clone https://github.com/mgckaled/ignite-python-sample_flask_auth.git
     ```
 
 3. Acesse o diretório:
 
     ```shell
-    $ cd ignite-python-flask_crud
+    $ cd ignite-python-sample_flask_auth
     ```
 
 4. Instale as dependências e ative o ambiente virtual
